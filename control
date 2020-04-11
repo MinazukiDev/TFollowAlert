@@ -1,0 +1,10 @@
+Package: com.minazuki.tfollowalert
+Name: TFollowAlert
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Twitter follow-up alert.
+Depiction: https://minazukidev.github.io/html/TFollowAlert/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
